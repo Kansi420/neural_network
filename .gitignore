@@ -1,0 +1,9 @@
+# Folder
+data/
+
+#File
+test.csv
+train.csv
+digit-recognizer.zip
+sample_submission.csv
+weights.pkl
